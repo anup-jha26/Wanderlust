@@ -17,7 +17,7 @@ It is built using the **MERN stack** with an emphasis on clean architecture, mod
 - **Backend:** Node.js, Express.js
 - **Frontend Templating:** EJS
 - **Database:** MongoDB & Mongoose
-- **Authentication:** JSON Web Tokens (JWT), bcrypt
+- **Authentication:** Passport.js (Local Strategy)
 - **Geolocation:** Mapbox API
 - **Image Uploads:** Cloudinary + Multer
 - **Hosting:** Render
@@ -26,7 +26,7 @@ It is built using the **MERN stack** with an emphasis on clean architecture, mod
 
 ## ✨ Key Features
 
-- 🔐 JWT-based login & registration system
+- 🔐 User login & registration with Passport.js (local strategy)
 - 🏡 Create, edit, delete, and view listings
 - 📍 Mapbox for geolocation and place mapping
 - 📷 Upload and manage images (Cloudinary)
