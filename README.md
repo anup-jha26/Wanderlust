@@ -1,7 +1,7 @@
 # 🌍 WanderLust – A MERN Stack Airbnb Clone
 
-WanderLust is a full-featured web application inspired by Airbnb, designed for users to explore, list, and manage vacation rentals. 
-This platform includes user authentication, location-based listings using Mapbox, image uploads via Cloudinary, review functionality, and complete CRUD support. 
+WanderLust is a full-featured web application inspired by Airbnb, designed for users to explore, list, and manage vacation rentals.  
+This platform includes user authentication, location-based listings using Mapbox, image uploads via Cloudinary, review functionality, and complete CRUD support.  
 It is built using the **MERN stack** with an emphasis on clean architecture, modular code, and scalable design.
 
 ---
@@ -63,17 +63,17 @@ cp .env.example .env
 # 4. Start the development server
 node app.js
 ```
-### Visit: http://localhost: 8080
+### Visit: http://localhost:8080
 
 ## 🌐Environment Variables
 In your .env file:
 
-ATLASDB_URL = your_mongo_uri
-SECRET = your_secret_key
-CLOUD_NAME = your_cloud_name
-CLOUD_API_KEY = your_api_key
-CLOUD_API_SECRET = your_api_secret
-MAP_TOKEN = your_mapbox_token
+ATLASDB_URL = your_mongo_uri  
+SECRET = your_secret_key  
+CLOUD_NAME = your_cloud_name  
+CLOUD_API_KEY = your_api_key  
+CLOUD_API_SECRET = your_api_secret  
+MAP_TOKEN = your_mapbox_token  
 
 ---
 
@@ -94,10 +94,10 @@ MAP_TOKEN = your_mapbox_token
 ---
 
 ## Author
-Anup Kumar Jha
-📧 aniljha1076@gmail.com
-🔗 LinkedIn – anup-jha26
+Anup Kumar Jha  
+📧 aniljha1076@gmail.com  
+🔗 LinkedIn – anup-jha26  
 
 ## License
-This project is for educational and portfolio purposes only.
-Not affiliated with Airbnb.
+This project is for educational and portfolio purposes only.  
+Not affiliated with Airbnb.  
