@@ -1,7 +1,7 @@
 # 🌍 WanderLust – A MERN Stack Airbnb Clone
 
 WanderLust is a full-featured web application inspired by Airbnb, designed for users to explore, list, and manage vacation rentals.  
-This platform includes user authentication, location-based listings using Mapbox, image uploads via Cloudinary, review functionality, and complete CRUD support.  
+This platform includes **user authentication, location-based listings using Mapbox, image uploads via Cloudinary, review functionality, and complete CRUD support.**  
 It is built using the **MERN stack** with an emphasis on clean architecture, modular code, and scalable design.
 
 ---
