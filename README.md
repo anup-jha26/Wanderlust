@@ -68,7 +68,7 @@ node app.js
 ## 🌐Environment Variables
 In your .env file:
 
-ATLASDB_URL = your_mongo_uri  
+ATLASDB_URL = your_mongo_url  
 SECRET = your_secret_key  
 CLOUD_NAME = your_cloud_name  
 CLOUD_API_KEY = your_api_key  
