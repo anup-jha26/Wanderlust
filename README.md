@@ -65,7 +65,7 @@ node app.js
 ```
 ### Visit: http://localhost: 8080
 
-### Environment Variables
+## 🌐Environment Variables
 In your .env file:
 
 ATLASDB_URL = your_mongo_uri
@@ -77,7 +77,7 @@ MAP_TOKEN = your_mapbox_token
 
 ---
 
-## API Overview (Sample Routes)
+## 🧪API Overview (Sample Routes)
 
 | Endpoint              | Method | Description           |
 | --------------------- | ------ | --------------------- |
