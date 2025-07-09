@@ -8,7 +8,7 @@ It is built using the **MERN stack** with an emphasis on clean architecture, mod
 
 ## 🚀 Live Demo
 
-👉 [wanderlust-5w8k.onrender.com](https://wanderlust-5w8k.onrender.com)
+👉 [wanderlust-5w8k.onrender.com](https://wanderlust-5w8k.onrender.com/listings)
 
 ---
 
@@ -29,7 +29,7 @@ It is built using the **MERN stack** with an emphasis on clean architecture, mod
 - 🔐 JWT-based login & registration system
 - 🏡 Create, edit, delete, and view listings
 - 📍 Mapbox for geolocation and place mapping
-- 📷 Upload and manage multiple images (Cloudinary)
+- 📷 Upload and manage images (Cloudinary)
 - 💬 Review system with CRUD operations
 - 🛡️ Authentication & Authorization middleware
 - ❗ Custom error handling and form validation
