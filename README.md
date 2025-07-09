@@ -79,17 +79,19 @@ MAP_TOKEN = your_mapbox_token
 
 ## 🧪API Overview (Sample Routes)
 
-| Endpoint              | Method | Description           |
-| --------------------- | ------ | --------------------- |
-| `/auth/register`      | POST   | User registration     |
-| `/auth/login`         | POST   | User login            |
-| `/listings/`          | GET    | List all places       |
-| `/listings/:id`       | GET    | View a specific place |
-| `/listings/`          | POST   | Create new listing    |
-| `/listings/:id`       | PUT    | Edit a listing        |
-| `/listings/:id`       | DELETE | Delete a listing      |
-| `/reviews/:listingId` | POST   | Add a review          |
-| `/reviews/:reviewId`  | DELETE | Delete a review       |
+| Endpoint                         | Method | Description           |
+| -------------------------------- | ------ | --------------------- |
+| `/signup`                        | POST   | User registration     |
+| `/login`                         | POST   | User login            |
+| `/logout`                        | POST   | User logout           |
+| `/listings`                      | GET    | List all places       |
+| `/listings/:id`                  | GET    | View a specific place |
+| `/listings/:id`                  | PUT    | Update a listing      |
+| `/listings/:id`                  | DELETE | Delete a listing      |
+| `/listings/new`                  | POST   | Create new listing    |
+| `/listings/:id/edit`             | GET    | Edit a listing        |
+| `/listings/:id/reviews`          | POST   | Add a review          |
+| `/listings/:id/reviews/:reviewId`| DELETE | Delete a review       |
 
 ---
 
