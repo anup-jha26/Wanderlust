@@ -8,7 +8,7 @@ It is built using the **MERN stack** with an emphasis on clean architecture, mod
 
 ## 🚀 Live Demo
 
-👉 [wanderlust-5w8k.onrender.com](https://wanderlust-5w8k.onrender.com/listings)
+👉 [Wanderlust Live](https://wanderlust-5w8k.onrender.com/listings)
 
 ---
 
