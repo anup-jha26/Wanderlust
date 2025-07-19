@@ -95,7 +95,7 @@ MAP_TOKEN = your_mapbox_token
 
 ---
 
-## Author
+## 👨‍💻 Author
 Anup Kumar Jha  
 📧 aniljha1076@gmail.com  
 🔗 LinkedIn – anup-jha26  
