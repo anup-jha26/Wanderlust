@@ -36,12 +36,18 @@
                 crossorigin="anonymous"></script>
             <script src="/js/script.js"></script>
             <script>
-                document.addEventListener("DOMContentLoaded", () => {
+                function adjustBodyPadding() {
                     const navbar = document.querySelector(".navbar");
-                    const navbarHeight = navbar.offsetHeight;
-                    document.body.style.paddingTop = `${navbarHeight}px`;
-                });
+                    if (navbar) {
+                        const navbarHeight = navbar.offsetHeight;
+                        document.body.style.paddingTop = `${navbarHeight}px`;
+                    }
+                }
+
+                document.addEventListener("DOMContentLoaded", adjustBodyPadding);
+                window.addEventListener("resize", adjustBodyPadding);
             </script>
+
 </body>
 
 </html>
