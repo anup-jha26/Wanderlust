@@ -100,6 +100,6 @@ Anup Kumar Jha
 📧 aniljha1076@gmail.com  
 🔗 LinkedIn – anup-jha26  
 
-## License
+## 📄 Disclaimer
 This project is for educational and portfolio purposes only.  
 Not affiliated with Airbnb.  
