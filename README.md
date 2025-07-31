@@ -37,6 +37,26 @@ It is built using the **MERN stack** with an emphasis on clean architecture, mod
 
 ---
 
+## 📁 Folder Structure
+Wanderlust/
+├── controllers/           # Route handler logic (listings, users, reviews)
+├── models/                # Mongoose schemas for MongoDB
+├── routes/                # Express route definitions
+├── views/                 # EJS templates for server-side rendering
+├── public/                # Static assets (CSS, JS, images)
+├── utils/                 # Helper functions and utilities
+├── init/                  # App initialization and configuration
+├── middleware.js          # Custom middleware functions
+├── cloudconfig.js         # Cloudinary configuration
+├── schema.js              # Joi validation schemas
+├── app.js                 # Main Express application entry point
+├── .env.example           # Sample environment variables
+├── .gitignore             # Git ignore rules
+├── package.json           # Project metadata and dependencies
+├── README.md              # Project documentation
+
+---
+
 ## 📦 Installation
 
 ### Prerequisites
@@ -64,6 +84,8 @@ cp .env.example .env
 node app.js
 ```
 ### Visit: http://localhost:8080
+
+---
 
 ## 🌐Environment Variables
 In your .env file:
@@ -99,6 +121,8 @@ MAP_TOKEN = your_mapbox_token
 Anup Kumar Jha  
 📧 aniljha1076@gmail.com  
 🔗 LinkedIn – anup-jha26  
+
+---
 
 ## 📄 Disclaimer
 This project is for educational and portfolio purposes only.  
