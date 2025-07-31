@@ -54,7 +54,6 @@ Wanderlust/
 ├── .gitignore             # Git ignore rules
 ├── package.json           # Project metadata and dependencies
 ├── README.md              # Project documentation
-
 ---
 
 ## 📦 Installation
