@@ -39,7 +39,7 @@ It is built using the **MERN stack** with an emphasis on clean architecture, mod
 
 ## 📁 Folder Structure
 Wanderlust/
-├── controllers/           # Route handler logic (listings, users, reviews)  
+├── controllers/( )( )( )( )# Route handler logic (listings, users, reviews)  
 ├── models/                # Mongoose schemas for MongoDB  
 ├── routes/                # Express route definitions  
 ├── views/                 # EJS templates for server-side rendering  
