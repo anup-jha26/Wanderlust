@@ -27,7 +27,7 @@ It is built using the **MERN stack** with an emphasis on clean architecture, mod
 ## ✨ Key Features
 
 - 🔐 User login & registration with Passport.js (local strategy)
-- 🏡 Create, edit, delete, and view listings
+- 🏡 Create, edit, delete, search and view listings
 - 📍 Mapbox for geolocation and place mapping
 - 📷 Upload and manage images (Cloudinary)
 - 💬 Review system with CRUD operations
