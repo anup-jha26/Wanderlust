@@ -122,7 +122,7 @@ MAP_TOKEN = your_mapbox_token
 ## 👨‍💻 Author
 Anup Kumar Jha  
 📧 aniljha1076@gmail.com  
-🔗 LinkedIn – anup-jha26  
+🔗 LinkedIn – [anupjha26](https://www.linkedin.com/in/anupjha26/)
 
 ---
 
